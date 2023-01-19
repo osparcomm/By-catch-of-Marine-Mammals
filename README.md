@@ -7,3 +7,4 @@ Data and outputs for Common Indicator "By-catch of Marine Mammals (M6)" of the O
 - [ ] Removal_limits_harbour_porpoise_north_sea.r: compute the removal limits using the Removal Limits Algorithm for the Harbour Porpoise in the North Sea Assessment Unit.
 - [ ] Removal_limits_harbour_porpoise_otherAUs: compute the removal limits using the Removal Limits Algorithm for the Harbour Porpoise in the "Irish Seas and Celtic Sea" and "West Scotland & Ireland" Assessment Units.
 
+Contact: To: mauthier(a)univ-lr.fr, cc: data(a)ospar.org, subject: QSR2023 M6Data
